@@ -1,1 +1,5 @@
 
+print("Hello from GitHub Project!")
+
+name = input("Enter your name: ")
+print("Welcome,", name)
